@@ -4,7 +4,7 @@ This analysis examines historical recession data and economic data pulled from t
 ## recessions-and-economic-indicators-eda.ipynb
 Jupyter Notebook file containg the analysis code performed in R. Personal comments and conclusions from analysis included throughout the notebook.
 
-## FREDMETA.csv
+## fredmeta.csv
 Data was collected from the FRED website.
 
 Contains economic indicators often associated with recessions along with recession status data. Data collected on smallest time unit and earliest time date available for each indicator which results in many nulls but increased flexibility for the users of this dataset.
