@@ -3,6 +3,8 @@ This analysis examines historical recession data and economic data pulled from t
 
 ## recessions-and-economic-indicators-eda.ipynb
 Jupyter Notebook file containg the analysis code performed in R. Personal comments and conclusions from analysis included throughout the notebook.
+Original Post in Kaggle: https://www.kaggle.com/code/xkevnx/recessions-and-economic-indicators-eda![image](https://github.com/Kevin-Trivino/Recessions-Exploratory-Analysis/assets/94009796/6c5a734b-8cb3-401d-8937-5a3513773e0e)
+
 
 ## fredmeta.csv
 Data was collected from the FRED website.
