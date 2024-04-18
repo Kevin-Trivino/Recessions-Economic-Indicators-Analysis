@@ -14,6 +14,6 @@ Contains economic indicators often associated with recessions along with recessi
 - gdp: Real GDP Billions of Chained 2017 Dollars (Quarterly)
 - unemployment: Unemployment Rate (Monthly)
 - m2: M2 Billions of Dollars (Monthly)
-> fed_funds: Federal Funds Rate (Monthly)
+- fed_funds: Federal Funds Rate (Monthly)
 - ten_two: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity (Monthly)
 - residential: Real Residential Property Price Rate (Quarterly)
