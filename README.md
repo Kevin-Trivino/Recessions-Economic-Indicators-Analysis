@@ -6,9 +6,6 @@ Jupyter Notebook file containg the full analysis code performed in R. Personal c
 
 For easier viewing and discussion visit original post on Kaggle: https://www.kaggle.com/code/xkevnx/recessions-and-economic-indicators-eda
 
-## RecessionsEDA.r
-Code identical to notebook except in R script form.
-
 ## fredmeta.csv
 Data was collected from the FRED website.
 
