@@ -4,7 +4,7 @@ This analysis examines historical recession data and economic data pulled from t
 ## recessions-and-economic-indicators-eda.ipynb
 Jupyter Notebook file containg the full analysis code performed in R. Personal comments and conclusions from analysis included throughout the notebook.
 
-For easier viewing visit original post on Kaggle: https://www.kaggle.com/code/xkevnx/recessions-and-economic-indicators-eda
+For easier viewing and discussion visit original post on Kaggle: https://www.kaggle.com/code/xkevnx/recessions-and-economic-indicators-eda
 
 ## RecessionsEDA.r
 Code identical to notebook except in R script form.
