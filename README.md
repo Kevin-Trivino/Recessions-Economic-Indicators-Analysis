@@ -9,11 +9,11 @@ Data was collected from the FRED website.
 
 Contains economic indicators often associated with recessions along with recession status data. Data collected on smallest time unit and earliest time date available for each indicator which results in many nulls but increased flexibility for the users of this dataset.
 
-recession: "1" recessionary period, "2" non-recessionary period (Monthly)
-cpi: CPI (1982-1984=INDEX 100) (Monthly)
-gdp: Real GDP Billions of Chained 2017 Dollars (Quarterly)
-unemployment: Unemployment Rate (Monthly)
-m2: M2 Billions of Dollars (Monthly)
-fed_funds: Federal Funds Rate (Monthly)
-ten_two: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity (Monthly)
-residential: Real Residential Property Price Rate (Quarterly)
+- recession: "1" recessionary period, "2" non-recessionary period (Monthly)
+- cpi: CPI (1982-1984=INDEX 100) (Monthly)
+- gdp: Real GDP Billions of Chained 2017 Dollars (Quarterly)
+- unemployment: Unemployment Rate (Monthly)
+- m2: M2 Billions of Dollars (Monthly)
+> fed_funds: Federal Funds Rate (Monthly)
+- ten_two: 10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity (Monthly)
+- residential: Real Residential Property Price Rate (Quarterly)
