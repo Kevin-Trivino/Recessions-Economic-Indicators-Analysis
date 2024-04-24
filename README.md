@@ -11,7 +11,7 @@ Data was collected from the FRED website.
 
 Contains economic indicators often associated with recessions along with recession status data. Data collected on smallest time unit and earliest time date available for each indicator which results in many nulls but increased flexibility for the users of this dataset.
 
-- recession: "1" recessionary period, "2" non-recessionary period (Monthly)
+- recession: "1" recessionary period, "0" non-recessionary period (Monthly)
 - cpi: CPI (1982-1984=INDEX 100) (Monthly)
 - gdp: Real GDP Billions of Chained 2017 Dollars (Quarterly)
 - unemployment: Unemployment Rate (Monthly)
