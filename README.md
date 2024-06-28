@@ -3,6 +3,8 @@ For easier viewing and discussion of the notebook visit original post on Kaggle:
 # Recessions-Economic-Indicators-Analysis
 This analysis examines historical recession data and economic data pulled from the FRED website. The objective is to identify what to expect from recessions along with trends and patterns between recessions and economic indicators that can give warning signs to a downturn in the economy. It is important to know that some of these trends using economic indicators have already been identified previously by other analyst so I am not pretending to have discovered them. However learning about past analysis has inspired me to to dive deeper into the relationships and explore new potential connections.
 
+![Screenshot 2024-06-27 at 21 02 32](https://github.com/Kevin-Trivino/Recessions-Economic-Indicators-Analysis/assets/94009796/1befe057-622c-4f2d-b205-e5d56b5dd154)
+
 ## recessions-and-economic-indicators-eda.ipynb
 Jupyter Notebook file containg the full analysis. Personal comments and conclusions from analysis included throughout the notebook.
 Language: R
